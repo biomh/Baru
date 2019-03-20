@@ -1,0 +1,15 @@
+table img.list{
+    width: 40px !important
+}
+img.card-img-top{
+    width : 150px !important
+}
+.card-body img.img-detail{
+    width: 250px !important
+}
+.card-body img.img-detail-cart{
+    width: 150px !important
+}
+.btn-circle{
+    border-radius: 50%
+}
